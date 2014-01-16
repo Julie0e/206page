@@ -21,6 +21,9 @@
 		00B5247D188793C600E106B7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B5245F188793C600E106B7 /* UIKit.framework */; };
 		00B52485188793C600E106B7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00B52483188793C600E106B7 /* InfoPlist.strings */; };
 		00B52487188793C600E106B7 /* _06pageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00B52486188793C600E106B7 /* _06pageTests.m */; };
+		00B5249318879C8200E106B7 /* music1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00B5249018879C8200E106B7 /* music1.mp3 */; };
+		00B5249418879C8200E106B7 /* music2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00B5249118879C8200E106B7 /* music2.mp3 */; };
+		00B5249518879C8200E106B7 /* music3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00B5249218879C8200E106B7 /* music3.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		00B52482188793C600E106B7 /* 206pageTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "206pageTests-Info.plist"; sourceTree = "<group>"; };
 		00B52484188793C600E106B7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00B52486188793C600E106B7 /* _06pageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _06pageTests.m; sourceTree = "<group>"; };
+		00B5249018879C8200E106B7 /* music1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music1.mp3; path = "../../../../아카이브/music1.mp3"; sourceTree = "<group>"; };
+		00B5249118879C8200E106B7 /* music2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music2.mp3; path = "../../../../아카이브/music2.mp3"; sourceTree = "<group>"; };
+		00B5249218879C8200E106B7 /* music3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music3.mp3; path = "../../../../아카이브/music3.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +119,9 @@
 			isa = PBXGroup;
 			children = (
 				00B5246A188793C600E106B7 /* AppDelegate.h */,
+				00B5249018879C8200E106B7 /* music1.mp3 */,
+				00B5249118879C8200E106B7 /* music2.mp3 */,
+				00B5249218879C8200E106B7 /* music3.mp3 */,
 				00B5246B188793C600E106B7 /* AppDelegate.m */,
 				00B5246D188793C600E106B7 /* Main.storyboard */,
 				00B52470188793C600E106B7 /* ViewController.h */,
@@ -230,6 +239,9 @@
 			files = (
 				00B52474188793C600E106B7 /* Images.xcassets in Resources */,
 				00B52466188793C600E106B7 /* InfoPlist.strings in Resources */,
+				00B5249518879C8200E106B7 /* music3.mp3 in Resources */,
+				00B5249318879C8200E106B7 /* music1.mp3 in Resources */,
+				00B5249418879C8200E106B7 /* music2.mp3 in Resources */,
 				00B5246F188793C600E106B7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
